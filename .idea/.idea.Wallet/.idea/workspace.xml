@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c51c3031-085d-4e9f-9005-a198d8ee862b" name="Default Changelist" comment="..." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assets/Package-Wallet" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A9810827-DCE3-444A-8E5C-4E9F3F5E0828/08/12e8b16a/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A9810827-DCE3-444A-8E5C-4E9F3F5E0828/e8/5474c7b4/ScriptableObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD9566CC-A225-41E5-8AD2-8D1FA2849830/e5/34d18935/JsonUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BFFBB60A-6911-44CD-8029-4FD434C04D66/f4/362b12f9/IWalletStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2424CAC4-7B13-4BCB-9980-D5FDF8EA4441/01/8c9ebea9/UnityWebRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A9810827-DCE3-444A-8E5C-4E9F3F5E0828/d0/75263446/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@304af11ce1/Runtime/Wallet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A9810827-DCE3-444A-8E5C-4E9F3F5E0828/a0/be1423af/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Package-Wallet/Wallet.cs" />
+      <option value="$PROJECT_DIR$/Assets/Package-Wallet/Wallet.asmdef" />
+      <option value="$PROJECT_DIR$/Assets/Package-Wallet/PackageWallet.asmdef" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@dd39767ffa/WalletStorage/WalletStoragePlayerPrefs.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@1ec5821108/Runtime/PackageWallet.Runtime.asmdef" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@01d5e88fb9/Runtime/WalletStorage/WalletStoragePlayerPrefs.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@01d5e88fb9/Runtime/WalletStorage/WalletStorageJson.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/Main.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scriptableobject/WalletItem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scriptableobjects/WalletItem.cs" />
+      <option value="$PROJECT_DIR$/Assets/ScriptableObjects/WalletItemScriptable.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@1bbe8a5fd4/Runtime/WalletStorage/WalletStoragePlayerPrefs.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@1bbe8a5fd4/Runtime/WalletStorage/WalletStorageFile.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@1bbe8a5fd4/Runtime/WalletStorage/WalletStorageBinary.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@1bbe8a5fd4/Runtime/WalletStorage/IWalletStorage.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@1bbe8a5fd4/Runtime/Wallet.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/PlayerWallet.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/ScriptableObjects/WalletItemScriptable.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@64d08eac44/Runtime/Wallet.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@5fad14e69c/Runtime/Wallet.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@5fad14e69c/Runtime/WalletItems.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@e077eaf07a/Runtime/WalletItems.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@e077eaf07a/Runtime/WalletStorage/WalletStorageBinary.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@e077eaf07a/Runtime/WalletStorage/WalletStorageServer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/GameManager.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1n6hlKTYajHu2Ikh7LAjbNfWVZo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34991798" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="10956">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="10956" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="2780">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="2780" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c51c3031-085d-4e9f-9005-a198d8ee862b" name="Default Changelist" comment="" />
+      <created>1610716597585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610716597585</updated>
+      <workItem from="1610716603337" duration="506000" />
+      <workItem from="1610718048232" duration="434000" />
+      <workItem from="1610718516416" duration="858000" />
+      <workItem from="1610720332849" duration="308000" />
+      <workItem from="1610720848529" duration="71000" />
+      <workItem from="1610721274291" duration="4000" />
+      <workItem from="1610721352741" duration="19776000" />
+    </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1610718723428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610718723428</updated>
+    </task>
+    <task id="LOCAL-00002" summary="...">
+      <created>1610719278814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610719278814</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Assets/Package-Wallet" />
+    </ignored-roots>
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@5fad14e69c/Runtime/WalletStorage/WalletStoragePlayerPrefs.cs</url>
+          <line>18</line>
+          <properties documentPath="D:\job\Wallet\Library\PackageCache\com.davit.yeghoyan@5fad14e69c\Runtime\WalletStorage\WalletStoragePlayerPrefs.cs" initialLine="18" containingFunctionPresentation="method 'Save'">
+            <startOffsets>
+              <option value="519" />
+            </startOffsets>
+            <endOffsets>
+              <option value="538" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="PlayerPrefs.GetFloat(_playerPrefsKey);" language="C#" />
+        <watch expression="Serialization(walletItems)" language="C#" />
+        <watch expression="Serialization(walletItems)" language="C#" />
+        <watch expression="Serialization(walletItems)" language="C#" />
+        <watch expression="Serialization(walletItems)" language="C#" />
+        <watch expression="_walletItems.Value[key]" language="C#" />
+        <watch expression="Serialization(walletItems)" language="C#" />
+        <watch expression=" Serialization(walletItems)" language="C#" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
