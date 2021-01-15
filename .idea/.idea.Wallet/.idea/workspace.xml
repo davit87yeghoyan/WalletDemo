@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c51c3031-085d-4e9f-9005-a198d8ee862b" name="Default Changelist" comment="..." />
+    <list default="true" id="c51c3031-085d-4e9f-9005-a198d8ee862b" name="Default Changelist" comment="demo">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Wallet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wallet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assets/Package-Wallet" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
@@ -56,6 +59,7 @@
       <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@e077eaf07a/Runtime/WalletStorage/WalletStorageBinary.cs" />
       <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@e077eaf07a/Runtime/WalletStorage/WalletStorageServer.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/GameManager.cs" />
+      <option value="$PROJECT_DIR$/README.md" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1n6hlKTYajHu2Ikh7LAjbNfWVZo" />
@@ -124,7 +128,7 @@
       <workItem from="1610720332849" duration="308000" />
       <workItem from="1610720848529" duration="71000" />
       <workItem from="1610721274291" duration="4000" />
-      <workItem from="1610721352741" duration="19776000" />
+      <workItem from="1610721352741" duration="20114000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1610718723428</created>
@@ -140,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610719278814</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="demo">
+      <created>1610744111327</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610744111327</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +178,8 @@
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
