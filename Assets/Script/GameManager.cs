@@ -17,13 +17,13 @@ namespace Script
         private void Awake()
         {
             /* storage  playerPrefs */
-            _walletStorage = new WalletStoragePlayerPrefs("playerPrefsKey");
+           // _walletStorage = new WalletStoragePlayerPrefs("playerPrefsKey");
             
             /* storage file */
-           // _walletStorage = new WalletStorageFile(Application.dataPath + "/walletItems.json");
+            //_walletStorage = new WalletStorageFile(Application.dataPath + "/walletItems.json");
             
             /* storage file binary */
-            //_walletStorage = new WalletStorageBinary(Application.dataPath + "/walletItems.data");
+            _walletStorage = new WalletStorageBinary(Application.dataPath + "/walletItems.data");
             
             /* storage server */
             // _walletStorage = new WalletStorageServer(this,"https://vk01-cossacks-files.agium.com/AniWorks/wallet.php");
@@ -48,10 +48,28 @@ namespace Script
             Wallet.SaveStorage( _walletStorage);
         }
 
-        
-        #region for test  ui 
-        private bool _autoUpdate = true, _autoSave = true;
+        private void OnDestroy()
+        {
+            Wallet.SetItem -= OnSetItem;
+        }
 
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        #region FOR TEST UI 
+        private bool _autoUpdate = true, _autoSave = true;
         
         public void AutoSave()
         {
@@ -82,7 +100,6 @@ namespace Script
             if(_coroutine!=null)
                 StopCoroutine( _coroutine);
         }
-
         
         public void Clear()
         {
@@ -93,8 +110,6 @@ namespace Script
                 });
         }
         
-        
-
         private IEnumerator UpdateWalletItems()
         {
             string[] keys = FindObjectsOfType<PlayerWallet>().Select(playerWallet => playerWallet.wallet.key).ToArray();
@@ -113,8 +128,7 @@ namespace Script
 
 
         }
-
-
+        
         #endregion
         
     }

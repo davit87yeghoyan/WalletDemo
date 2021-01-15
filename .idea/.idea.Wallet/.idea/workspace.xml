@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c51c3031-085d-4e9f-9005-a198d8ee862b" name="Default Changelist" comment="demo">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Wallet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wallet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerWallet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/PlayerWallet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/walletItems.data" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/walletItems.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/walletItems.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/walletItems.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +32,7 @@
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@304af11ce1/Runtime/Wallet.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A9810827-DCE3-444A-8E5C-4E9F3F5E0828/a0/be1423af/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@304af11ce1/Runtime/WalletStorage/WalletStorageBinary.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -50,7 +54,6 @@
       <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@1bbe8a5fd4/Runtime/WalletStorage/WalletStorageBinary.cs" />
       <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@1bbe8a5fd4/Runtime/WalletStorage/IWalletStorage.cs" />
       <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@1bbe8a5fd4/Runtime/Wallet.cs" />
-      <option value="$PROJECT_DIR$/Assets/Script/PlayerWallet.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/ScriptableObjects/WalletItemScriptable.cs" />
       <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@64d08eac44/Runtime/Wallet.cs" />
       <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@5fad14e69c/Runtime/Wallet.cs" />
@@ -58,8 +61,9 @@
       <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@e077eaf07a/Runtime/WalletItems.cs" />
       <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@e077eaf07a/Runtime/WalletStorage/WalletStorageBinary.cs" />
       <option value="$PROJECT_DIR$/Library/PackageCache/com.davit.yeghoyan@e077eaf07a/Runtime/WalletStorage/WalletStorageServer.cs" />
-      <option value="$PROJECT_DIR$/Assets/Script/GameManager.cs" />
       <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/Assets/Script/PlayerWallet.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/GameManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1n6hlKTYajHu2Ikh7LAjbNfWVZo" />
@@ -128,7 +132,7 @@
       <workItem from="1610720332849" duration="308000" />
       <workItem from="1610720848529" duration="71000" />
       <workItem from="1610721274291" duration="4000" />
-      <workItem from="1610721352741" duration="20114000" />
+      <workItem from="1610721352741" duration="20961000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1610718723428</created>
@@ -151,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610744111327</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="demo">
+      <created>1610744309705</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610744309705</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

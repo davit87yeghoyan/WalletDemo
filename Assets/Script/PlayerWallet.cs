@@ -1,4 +1,5 @@
-﻿using System.Globalization;
+﻿using System;
+using System.Globalization;
 using PackageWallet.Runtime;
 using Script.ScriptableObjects;
 using TMPro;
@@ -20,6 +21,12 @@ namespace Script
             Wallet.SetItem += OnSetItem;
             Wallet.GetFromStorage += OnGetFromStorage;
             image.sprite = wallet.sprite;
+        }
+
+        private void OnDisable()
+        {
+            Wallet.SetItem -= OnSetItem;
+            Wallet.GetFromStorage -= OnGetFromStorage;
         }
 
         private void OnGetFromStorage()
